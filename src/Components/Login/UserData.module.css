@@ -1,0 +1,69 @@
+.acontainer {
+    display: flex;
+    flex-direction: column; 
+    gap: 10px;
+    padding: 1rem; 
+    align-items: center;
+    margin: 3rem auto;
+    text-align: center;
+   justify-content: center;
+   
+
+
+   
+  }
+  
+  
+  
+  table {
+    
+    border-collapse: collapse;
+    width: 100%;  
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    
+  }
+  
+  
+  
+  th{
+    border: 1px solid #c101fb;
+    text-align: center;
+    padding: 3px;
+    font-size: 20px;
+    color: white;
+    column-fill: balance;
+   
+    
+  }
+  td {
+  
+    border: 5px solid #c101fb;
+    text-align: center;
+    padding: 5px;
+    font-size: 18px;
+    column-fill: balance
+ 
+  
+  }
+
+  
+  th {
+    background-color: rgb(209, 40, 251);
+    
+  
+  }
+  
+  td {
+  background-color: #ebdff1;
+
+  
+  }
+
+  h2{
+    color: white;
+    font-size: 45px;
+    font-family: 	Copperplate ;
+    text-shadow: 3px 3px rgb(233, 29, 240);
+  }

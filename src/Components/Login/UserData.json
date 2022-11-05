@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "firstName": "Trisha",
+        "lastName": "Pretty",
+        "email": "pretty.trisha@email.com",
+        "eid": "123456789",
+        "bday": "1995-05-29"
+    },
+    {
+        "id": 2,
+        "firstName": "Sharlynne",
+        "lastName": "Camit",
+        "email": "camitmeshars@email.com",
+        "eid": "223456789",
+        "bday": "1999-09-15"
+    },
+    {
+        "id": 3,
+        "firstName": "Harry",
+        "lastName": "Potter",
+        "email": "HarryPotter@email.com",
+        "eid": "333456789",
+        "bday": "1967-07-23"
+    },
+    {
+        "id": 4,
+        "firstName": "Jane",
+        "lastName": "Austen",
+        "email": "AustenJane@email.com",
+        "eid": "444456789",
+        "bday": "1998-11-07"
+    },
+    {
+        "id": 5,
+        "firstName": "Taylor",
+        "lastName": "Swift",
+        "email": "taylorswift@taylors.version",
+        "eid": "555556789",
+        "bday": "1989-12-13"
+    },
+    {
+        "id": 6,
+        "firstName": "William",
+        "lastName": "Shakespeare",
+        "email": "thebest@shakespeare.com",
+        "eid": "666666789",
+        "bday": "1902-09-26"
+    },
+    {
+        "id": 7,
+        "firstName": "Don",
+        "lastName": "Quixote",
+        "email": "migueldecervantes@quixote.com",
+        "eid": "777777789",
+        "bday": "1923-03-17"
+    }
+]
